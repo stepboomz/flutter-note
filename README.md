@@ -7,16 +7,6 @@
 
 
 
-### Screenshots
-
-<p float="left">  
-    <img src="https://github.com/amirk3321/flutter-group-chat/assets/10207753/1db21226-f0e8-4713-bc92-23a620505ff0" height="500" />   
-  <img src="https://github.com/amirk3321/flutter-group-chat/assets/10207753/d4295d1c-e1f2-479f-9df1-6987716ff41c" height="500" />   
-    <img src="https://github.com/amirk3321/flutter-group-chat/assets/10207753/02379d99-513b-4c15-a6c5-fa2e465dcd7e" height="500" />   
-        <img src="https://github.com/amirk3321/flutter-group-chat/assets/10207753/1319f835-326f-4bb5-8ffb-a0a228126310" height="500" />     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/10207753/259384709-42ceecda-9e11-406b-abf2-13c8bd2dd56b.png" height="500" />  
-
-<br /></p>
-
 
 ## App Features
 - SignIn
